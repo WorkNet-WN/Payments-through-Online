@@ -7,4 +7,11 @@
 	  -> node server.js --->[command] 
 	  -> npm start   ---> [command]
 
+
+## The commands
+
+  npm init -y
+  npm install express
+  node server.js
+
 	  
