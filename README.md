@@ -10,8 +10,8 @@
 
 ## The commands
 
- npm init -y
- npm install express
- node server.js
+ -->npm init -y
+ -->npm install express
+ -->node server.js
 
 	  
